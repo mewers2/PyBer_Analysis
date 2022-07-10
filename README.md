@@ -13,7 +13,7 @@ The analysis of the ride-sharing data yielded the following outputs:
 
 ![summary_DataFrame](https://github.com/mewers2/PyBer_Analysis/blob/main/Analysis/summary_DataFrame.png)
 
-![PyBer_fare_summary](https://github.com/mewers2/PyBer_Analysis/tree/main/Analysis)
+![PyBer_fare_summary](https://github.com/mewers2/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 The three different types of cities produce very differing results when the ride, fare, and driver data were summarized.  
 
